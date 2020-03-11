@@ -1,0 +1,8 @@
+CWID:890457906,FirstName:Alex,LastName:Sigler,Gender:M,BirthDate:09/28/1999,ClassID:1,Grade:A
+CWID:890457999,FirstName:John,LastName:Sigler,Gender:M,BirthDate:01/28/1998,ClassID:35,Grade:C
+CWID:890457907,FirstName:Nick,LastName:Sigler,Gender:M,BirthDate:02/28/1997,ClassID:54,Grade:A
+CWID:890457912,FirstName:Corbin,LastName:Sigler,Gender:M,BirthDate:03/28/1969,ClassID:49,Grade:A
+CWID:890457919,FirstName:Catherine,LastName:Sigler,Gender:O,BirthDate:08/28/1959,ClassID:49,Grade:C
+CWID:890457912,FirstName:Alex,LastName:Sigler,Gender:M,BirthDate:01/28/1939,ClassID:49,Grade:A
+CWID:890457907,FirstName:Dayana,LastName:Sigler,Gender:F,BirthDate:12/28/1989,ClassID:49,Grade:B
+CWID:890457907,FirstName:Dayana,LastName:Sigler,Gender:F,BirthDate:12/28/1989,ClassID:1,Grade:B
