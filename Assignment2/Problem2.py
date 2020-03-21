@@ -26,4 +26,4 @@ def combine_with_set(list_obj, set_obj):
 
 
 print(combine_with_list([1, 2, 3], ["Is,this,one,that,counts", 3, 4, 5, 7, 8, True, -986]))
-print(combine_with_list([1, 2, 3], {"hi,l,o,l,1,2,3,4,5", 1, 2, 3, 2.2, -9264, 5, 6}))
+print(combine_with_set([1, 2, 3], {"hi,l,o,l,1,2,3,4,5", 1, 2, 3, 2.2, -9264, 5, 6}))
